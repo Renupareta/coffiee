@@ -1,0 +1,38 @@
+ .navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+    
+    justify-content:space-between;  
+
+ }
+ *{margin: 0;
+    padding: 0;
+ }
+ li{
+    display:inline-block;
+    text-decoration: none;
+    text-align: right;
+    height: 40px;
+   
+    word-spacing: 20%;
+ }   
+    body{
+        background-image: url("library.jpeg");
+        background-position: left;
+        background-size: 100%,50%;
+        background-image: no-repeat;
+        border: 10px solid white;
+    
+    }
+    .IMAGE
+    {
+        margin: 42%;
+    }
+    
+   .class1{
+    display: flexbox;
+    background-color: brown;
+    width: 30%;
+   } 
